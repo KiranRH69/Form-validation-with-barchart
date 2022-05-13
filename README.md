@@ -8,5 +8,5 @@ In the project directory, you can run:
 
 ### `npm start`
 
-this application is to validate the data provided by user and after validating the information provide it will rediract to the new page were u will find the bar chart.
-this bar char will have random values for each refresh,
+this application is to validate the data provided by user and after validating the information provided it will redirect to the new page where u will find the bar chart.
+this bar chart will have random values for each refresh,
